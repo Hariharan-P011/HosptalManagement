@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-hiii sushmitha
-=======
 hiii sushmitha
 hlo sushmitha 
-good morninging 
->>>>>>> funct
+good 
